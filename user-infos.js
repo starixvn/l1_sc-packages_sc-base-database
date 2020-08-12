@@ -1,14 +1,14 @@
-import mongoose from 'mongoose';
-import autoIncrement from 'mongoose-auto-increment-reworked';
+import mongoose from "mongoose";
+import autoIncrement from "mongoose-auto-increment-reworked";
 
-let Schema = new mongoose.Schema({
+const Schema = new mongoose.Schema({
     id: { type: String, required: true, unique: true },
     name: { type: String, required: true, unique: true },
-    avatar: { type: String, default: '' },
+    avatar: { type: String, default: "" },
     joinedOn: { type: Date, default: new Date() },
 
-    email: { type: String, default: '' },
-    cmt: { type: String, default: '' },
+    email: { type: String, default: "" },
+    cmt: { type: String, default: "" },
 
     security: {
         login: { type: Number, default: 0 },
@@ -37,13 +37,13 @@ let Schema = new mongoose.Schema({
     otpFirst: { type: Boolean, default: false },
 
     avatarId: { type: Number, default: 0 },
-    currency: { type: String, default: '' },
+    currency: { type: String, default: "" },
 
     inRoom: { type: Boolean, default: false },
-    inGameRoom: { type: String, default: '' },
+    inGameRoom: { type: String, default: "" },
     disabled: { type: Boolean, default: false },
 });
 
-Schema.plugin(autoIncrement.MongooseAutoIncrementID.plugin, { modelName: 'UserInfo', field: 'UID' });
+Schema.plugin(autoIncrement.MongooseAutoIncrementID.plugin, { modelName: "UserInfo", field: "UID" });
 
-export default mongoose.model('UserInfo', Schema);
+export default mongoose.model("UserInfo", Schema);

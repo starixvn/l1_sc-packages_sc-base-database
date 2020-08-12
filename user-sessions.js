@@ -1,4 +1,4 @@
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 
 const Schema = new mongoose.Schema({
     ssoToken: { type: String },
@@ -18,6 +18,4 @@ const Schema = new mongoose.Schema({
     memberName: { type: String },
 });
 
-Schema.index({ sessionId: 1 }, { background: true });
-
-export default mongoose.model('UserSessions', Schema);
+export default mongoose.model("UserSessions", Schema);

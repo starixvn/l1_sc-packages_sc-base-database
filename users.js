@@ -1,4 +1,4 @@
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 
 const Schema = new mongoose.Schema({
     local: {
@@ -6,36 +6,36 @@ const Schema = new mongoose.Schema({
         password: { type: String, required: true, hide: true },
         ban_pass: { type: Number, default: 0 },
         ban_login: { type: Boolean, default: false },
-        token: String,
-        lastDate: String,
-        lastLogin: String,
-        regDate: Date,
-        clientId: String,
-        memberId: Number,
-        memberName: String,
-        currency: String,
+        token: { type: String },
+        lastDate: { type: String },
+        lastLogin: { type: String },
+        regDate: { type: Date },
+        clientId: { type: String },
+        memberId: { type: Number },
+        memberName: { type: String },
+        currency: { type: String },
     },
     facebook: {
-        id: String,
-        token: String,
-        email: String,
-        name: String,
-        regDate: Date,
+        id: { type: String },
+        token: { type: String },
+        email: { type: String },
+        name: { type: String },
+        regDate: { type: Date },
     },
     twitter: {
-        id: String,
-        token: String,
-        email: String,
-        name: String,
-        regDate: Date,
+        id: { type: String },
+        token: { type: String },
+        email: { type: String },
+        name: { type: String },
+        regDate: { type: Date },
     },
     google: {
-        id: String,
-        token: String,
-        email: String,
-        name: String,
-        regDate: Date,
+        id: { type: String },
+        token: { type: String },
+        email: { type: String },
+        name: { type: String },
+        regDate: { type: Date },
     },
 });
 
-export default mongoose.model('Users', Schema);
+export default mongoose.model("Users", Schema);
