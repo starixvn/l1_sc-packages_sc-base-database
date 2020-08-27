@@ -1,6 +1,6 @@
 {
     "name": "sc-base-database",
-    "version": "1.3.0",
+    "version": "1.3.0-dev-FreeBet.1",
     "description": "Common models using by all game services.",
     "main": "index.js",
     "scripts": {
