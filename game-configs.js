@@ -15,6 +15,7 @@ const Schema = new mongoose.Schema({
     choices_maxbet: { type: Object },
     odds: { type: Object },
     delayStartTime: { type: Number },
+    enableFreeBet: { type: Boolean, default: false },
 });
 
 export default mongoose.model("game_configs", Schema);
