@@ -42,7 +42,8 @@ const Schema = new mongoose.Schema({
     inRoom: { type: Boolean, default: false },
     inGameRoom: { type: String, default: "" },
     disabled: { type: Boolean, default: false },
-	scoins: { type: Number, default: 0 },
+    scoins: { type: Number, default: 0 },
+    banned: { type: Boolean, default: false },
 });
 
 Schema.plugin(autoIncrement.MongooseAutoIncrementID.plugin, { modelName: "UserInfo", field: "UID" });
