@@ -20,7 +20,7 @@
     "dependencies": {
         "mongoose": "^5.9.25",
         "mongoose-auto-increment-reworked": "^1.2.1",
-        "sc-common": "^1.3.0"
+        "sc-common": "^1.5.0"
     },
     "devDependencies": {
         "@commitlint/cli": "^9.1.2",
