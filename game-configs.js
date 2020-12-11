@@ -16,6 +16,7 @@ const Schema = new mongoose.Schema({
     odds: { type: Object },
     delayStartTime: { type: Number },
     enableFreeBet: { type: Boolean, default: false },
+    slotsConfig: { type: Object },
 });
 
 export default mongoose.model("game_configs", Schema);
