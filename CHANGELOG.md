@@ -1,3 +1,10 @@
+# [1.5.0](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.4.0...v1.5.0) (2020-12-23)
+
+
+### Features
+
+* add slot game config ([180a794](https://git3.nexdev.net/sc-packages/sc-base-database/commit/180a794b25a471173ec249611e2b3a791745711e))
+
 # [1.4.0](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.3.1...v1.4.0) (2020-10-21)
 
 
