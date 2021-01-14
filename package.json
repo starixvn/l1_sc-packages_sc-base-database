@@ -1,6 +1,6 @@
 {
     "name": "sc-base-database",
-    "version": "1.5.0",
+    "version": "1.6.0-beta.0",
     "description": "Common models using by all game services.",
     "main": "index.js",
     "scripts": {
