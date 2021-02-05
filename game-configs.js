@@ -17,6 +17,8 @@ const Schema = new mongoose.Schema({
     delayStartTime: { type: Number },
     enableFreeBet: { type: Boolean, default: false },
     slotsConfig: { type: Object },
+    smartBotEnabled: { type: Boolean, default: false },
+    smartBotTotalGroup: { type: Number, default: 0 },
 });
 
 export default mongoose.model("game_configs", Schema);
