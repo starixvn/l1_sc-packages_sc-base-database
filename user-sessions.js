@@ -16,6 +16,7 @@ const Schema = new mongoose.Schema({
     currency: { type: String },
     clientId: { type: String },
     memberName: { type: String },
+    siteName: { type: String },
 });
 
 export default mongoose.model("UserSessions", Schema);

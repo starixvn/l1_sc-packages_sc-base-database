@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "reg": "npm set registry http://npm.lumigame.com",
         "ver": "npm version minor",
-        "betaver": "npm version preminor --preid beta",
+        "betaver": "npm version prerelease --preid beta",
         "pub": "npm publish --registry http://npm.lumigame.com",
         "pubbeta": "npm publish --registry http://npm.lumigame.com --tag beta",
         "unpublish": "npm unpublish --force sc-base-database",
