@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import { MongooseAutoIncrementID } from "mongoose-auto-increment-reworked";
+import autoIncrement from "mongoose-auto-increment-reworked";
 
 const Schema = new mongoose.Schema({
     id: { type: String, required: true, unique: true },
@@ -48,6 +48,6 @@ const Schema = new mongoose.Schema({
     maxBet: { type: Number, default: 0 },
 });
 
-Schema.plugin(MongooseAutoIncrementID.plugin, { modelName: "UserInfo", field: "UID" });
+Schema.plugin(autoIncrement.MongooseAutoIncrementID.plugin, { modelName: "UserInfo", field: "UID" });
 
 export default mongoose.model("UserInfo", Schema);
