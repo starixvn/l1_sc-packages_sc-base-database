@@ -1,3 +1,11 @@
+# [1.6.0](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.5.0...v1.6.0) (2021-03-02)
+
+
+### Features
+
+* add betLimitModifiedDate to user-infos ([1bfdf17](https://git3.nexdev.net/sc-packages/sc-base-database/commit/1bfdf1764e1fd85171e6c314de5b39d33243bded))
+* add member min max bet to userinfo ([81f433c](https://git3.nexdev.net/sc-packages/sc-base-database/commit/81f433caf83c7312da0e15ef8f9c7b47b22dc35c))
+
 # [1.5.0](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.4.0...v1.5.0) (2020-12-23)
 
 
