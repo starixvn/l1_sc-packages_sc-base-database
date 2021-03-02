@@ -44,6 +44,9 @@ const Schema = new mongoose.Schema({
     disabled: { type: Boolean, default: false },
     scoins: { type: Number, default: 0 },
     banned: { type: Boolean, default: false },
+    minBet: { type: Number, default: 0 },
+    maxBet: { type: Number, default: 0 },
+    betLimitModifiedDate: { type: Date },
 });
 
 Schema.plugin(autoIncrement.MongooseAutoIncrementID.plugin, { modelName: "UserInfo", field: "UID" });
