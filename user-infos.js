@@ -1,9 +1,9 @@
 import mongoose from "mongoose";
-import autoIncrement from "mongoose-auto-increment-reworked";
 
 const Schema = new mongoose.Schema({
     id: { type: String, required: true, unique: true },
     name: { type: String, required: true, unique: true },
+    UID: { type: Number, required: true, unique: true },
     avatar: { type: String, default: "" },
     joinedOn: { type: Date, default: new Date() },
 
@@ -48,7 +48,5 @@ const Schema = new mongoose.Schema({
     maxBet: { type: Number, default: 0 },
     betLimitModifiedDate: { type: Date },
 });
-
-Schema.plugin(autoIncrement.MongooseAutoIncrementID.plugin, { modelName: "UserInfo", field: "UID" });
 
 export default mongoose.model("UserInfo", Schema);
