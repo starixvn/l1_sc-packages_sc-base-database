@@ -20,7 +20,7 @@
     "type": "module",
     "dependencies": {
         "mongoose": "^5.9.25",
-        "sc-common": "^1.5.0"
+        "sc-common": "^1.5.1-beta.0"
     },
     "devDependencies": {
         "@commitlint/cli": "^9.1.2",
