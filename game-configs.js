@@ -18,6 +18,8 @@ const Schema = new mongoose.Schema({
     enableFreeBet: { type: Boolean, default: false },
     slotsConfig: { type: Object },
     siteExclusions: { type: Array },
+    smartBotEnabled: { type: Boolean, default: false },
+    smartBotTotalGroup: { type: Number, default: 0 },
 });
 
 export default mongoose.model("game_configs", Schema);

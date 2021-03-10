@@ -47,6 +47,7 @@ const Schema = new mongoose.Schema({
     minBet: { type: Number, default: 0 },
     maxBet: { type: Number, default: 0 },
     betLimitModifiedDate: { type: Date },
+    patternId: { type: Number, default: 0 },
 });
 
 export default mongoose.model("UserInfo", Schema);
