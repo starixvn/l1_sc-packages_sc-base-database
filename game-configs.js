@@ -19,7 +19,7 @@ const Schema = new mongoose.Schema({
     slotsConfig: { type: Object },
     siteExclusions: { type: Array },
     smartBotEnabled: { type: Boolean, default: false },
-    smartBotTotalGroup: { type: Number, default: 0 },
+    smartBotGroupRatio: { type: Number, default: 0 },
 });
 
 export default mongoose.model("game_configs", Schema);
