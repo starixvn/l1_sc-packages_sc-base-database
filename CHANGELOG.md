@@ -1,3 +1,15 @@
+# [1.7.0](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.6.0...v1.7.0) (2021-03-17)
+
+
+### Bug Fixes
+
+* add siteExclusions prop for GameConfig ([8678fbb](https://git3.nexdev.net/sc-packages/sc-base-database/commit/8678fbb0452756b5f67b59e0f29f7354be500af8))
+
+
+### Features
+
+* add siteName for user-infos model ([6b88a02](https://git3.nexdev.net/sc-packages/sc-base-database/commit/6b88a02e5b5797e8fdc0a575dbeb8e1b10655295))
+
 # [1.6.0](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.5.0...v1.6.0) (2021-03-02)
 
 
