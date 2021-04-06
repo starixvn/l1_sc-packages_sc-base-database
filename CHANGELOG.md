@@ -1,3 +1,16 @@
+# [1.8.0](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.7.0...v1.8.0) (2021-04-06)
+
+
+### Bug Fixes
+
+* update sc-common ([cac4e89](https://git3.nexdev.net/sc-packages/sc-base-database/commit/cac4e8916ea6103baf90f91c4afa9d8917cbe1e2))
+
+
+### Features
+
+* add siteName and system fields for user session ([1e7b2ca](https://git3.nexdev.net/sc-packages/sc-base-database/commit/1e7b2ca6810293d0017647ebc244b2b79e340962))
+* remove mongoose-auto-increment-reworked ([3d94e27](https://git3.nexdev.net/sc-packages/sc-base-database/commit/3d94e276bd993c8ccf5763dd72dd15ca223cb629))
+
 # [1.7.0](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.6.0...v1.7.0) (2021-03-17)
 
 
