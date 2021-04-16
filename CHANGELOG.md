@@ -1,3 +1,10 @@
+## [1.8.1](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.8.0...v1.8.1) (2021-04-16)
+
+
+### Bug Fixes
+
+* update sc common ([e9056f4](https://git3.nexdev.net/sc-packages/sc-base-database/commit/e9056f49976be4894ed0c962e934487c372b22bb))
+
 # [1.8.0](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.7.0...v1.8.0) (2021-04-06)
 
 
