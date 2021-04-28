@@ -1,3 +1,12 @@
+## [1.8.2](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.8.1...v1.8.2) (2021-04-28)
+
+
+### Bug Fixes
+
+* add fields for smart bot ([850080b](https://git3.nexdev.net/sc-packages/sc-base-database/commit/850080ba4cdb104b7bf0e73142460b9fafdc359d))
+* update smartBotGroupRatio ([882a594](https://git3.nexdev.net/sc-packages/sc-base-database/commit/882a594955229f9fc8c2d2304136b243a1ffd3a8))
+* upgrade package ([e2f0042](https://git3.nexdev.net/sc-packages/sc-base-database/commit/e2f0042c3c412f6dd1dfa8a8f383e6aaf9b0e066))
+
 ## [1.8.1](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.8.0...v1.8.1) (2021-04-16)
 
 
