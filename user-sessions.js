@@ -16,6 +16,7 @@ const Schema = new mongoose.Schema({
     currencyCode: { type: String },
     currencyName: { type: Number },
     currencyGroupId: { type: String },
+    isTestCurrency: { type: Boolean },
     multiplier: { type: Number },
     partnerId: { type: String },
     memberName: { type: String },
