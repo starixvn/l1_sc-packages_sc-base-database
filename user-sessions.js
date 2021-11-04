@@ -14,7 +14,7 @@ const Schema = new mongoose.Schema({
     browserUserAgent: { type: String },
     language: { type: String },
     currencyCode: { type: String },
-    currencyName: { type: Number },
+    currencyName: { type: String },
     currencyGroupId: { type: String },
     isTestCurrency: { type: Boolean },
     multiplier: { type: Number },
