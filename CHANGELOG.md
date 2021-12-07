@@ -1,3 +1,18 @@
+# [1.9.0](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.8.2...v1.9.0) (2021-12-07)
+
+
+### Bug Fixes
+
+* update model type ([196d360](https://git3.nexdev.net/sc-packages/sc-base-database/commit/196d3606051bf71ed11a7ba73d3d4edb816f60b6))
+
+
+### Features
+
+* add field exchangeReload to game configs model ([eed9246](https://git3.nexdev.net/sc-packages/sc-base-database/commit/eed9246e15fd285f81eb90972396c2db47c794d3))
+* add field isTestCurrency to user session model ([7b8afc6](https://git3.nexdev.net/sc-packages/sc-base-database/commit/7b8afc6313809ad7bd69fad18453b27b7bfe50a0))
+* update user session model ([ee35b7e](https://git3.nexdev.net/sc-packages/sc-base-database/commit/ee35b7e323171f5b2fa7772ee324accf0d51e593))
+* update user session model ([cbc6d36](https://git3.nexdev.net/sc-packages/sc-base-database/commit/cbc6d3677ee7f2416b39070e4a818934cb168821))
+
 ## [1.8.2](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.8.1...v1.8.2) (2021-04-28)
 
 
