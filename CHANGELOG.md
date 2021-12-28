@@ -1,3 +1,10 @@
+## [1.9.1](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.9.0...v1.9.1) (2021-12-28)
+
+
+### Bug Fixes
+
+* update clientId to partnerId ([0ad1902](https://git3.nexdev.net/sc-packages/sc-base-database/commit/0ad1902e06a2cae7425b52f927c1cddfcecd14df))
+
 # [1.9.0](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.8.2...v1.9.0) (2021-12-07)
 
 
