@@ -10,7 +10,7 @@ const Schema = new mongoose.Schema({
         lastDate: { type: String },
         lastLogin: { type: String },
         regDate: { type: Date },
-        clientId: { type: String },
+        partnerId: { type: String },
         memberId: { type: Number },
         memberName: { type: String },
         currency: { type: String },
