@@ -22,6 +22,10 @@ const Schema = new mongoose.Schema({
     memberName: { type: String },
     siteName: { type: String },
     system: { type: Number },
+
+    operatorId: { type: String },
+    playerId: { type: Number },
+    playerName: { type: String },
 });
 
 export default mongoose.model("UserSessions", Schema);
