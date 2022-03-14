@@ -1,3 +1,11 @@
+## [1.9.2](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.9.1...v1.9.2) (2022-03-14)
+
+
+### Bug Fixes
+
+* update db schema ([62515b3](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/62515b3f51f34a8de788c985b6f3358051944746))
+* upgrade schema ([6f9a19a](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/6f9a19aac9e7e56de595819b6d1cb06ab7e4a0ce))
+
 ## [1.9.1](https://git3.nexdev.net/sc-packages/sc-base-database/compare/v1.9.0...v1.9.1) (2021-12-28)
 
 
