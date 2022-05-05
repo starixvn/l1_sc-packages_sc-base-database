@@ -1,3 +1,11 @@
+# [1.10.0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.9.2...v1.10.0) (2022-05-05)
+
+
+### Features
+
+* add OperatorToken to user session ([2d113cc](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/2d113cc9472cb1629c101f60c5f8067ac1fc7d09))
+* add randomMode to game config ([b61ecb3](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/b61ecb39b6f3c2387049d016b60515aa822114e4))
+
 ## [1.9.2](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.9.1...v1.9.2) (2022-03-14)
 
 
