@@ -21,6 +21,7 @@ const Schema = new mongoose.Schema({
     smartBotEnabled: { type: Boolean, default: false },
     smartBotGroupRatio: { type: Number, default: 0 },
     exchangeReload: { type: Boolean, default: false },
+    randomMode: { type: Number },
 });
 
 export default mongoose.model("game_configs", Schema);

@@ -26,6 +26,7 @@ const Schema = new mongoose.Schema({
     operatorId: { type: String },
     playerId: { type: Number },
     playerName: { type: String },
+    operatorToken: { type: String },
 });
 
 export default mongoose.model("UserSessions", Schema);

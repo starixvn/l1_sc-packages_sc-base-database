@@ -1,6 +1,6 @@
 {
     "name": "sc-base-database",
-    "version": "1.9.2",
+    "version": "1.9.3-beta.2",
     "description": "Common models using by all game services.",
     "main": "index.js",
     "scripts": {
@@ -19,7 +19,7 @@
     "type": "module",
     "dependencies": {
         "mongoose": "^5.9.25",
-        "sc-common": "^1.6.0"
+        "sc-common": "1.8.1"
     },
     "devDependencies": {
         "@commitlint/cli": "^9.1.2",
