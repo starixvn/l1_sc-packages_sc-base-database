@@ -22,6 +22,7 @@ const Schema = new mongoose.Schema({
     smartBotGroupRatio: { type: Number, default: 0 },
     exchangeReload: { type: Boolean, default: false },
     randomMode: { type: Number },
+    cascadingSlotsConfig: { type: Object },
 });
 
 export default mongoose.model("game_configs", Schema);
