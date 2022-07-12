@@ -1,3 +1,10 @@
+## [1.10.1](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.10.0...v1.10.1) (2022-07-12)
+
+
+### Bug Fixes
+
+* treasure island service ([3974bc7](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/3974bc7bc0403b29ba68e4e48842800995f41244))
+
 # [1.10.0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.9.2...v1.10.0) (2022-05-05)
 
 
