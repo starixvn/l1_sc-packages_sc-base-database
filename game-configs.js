@@ -23,6 +23,7 @@ const Schema = new mongoose.Schema({
     exchangeReload: { type: Boolean, default: false },
     randomMode: { type: Number },
     cascadingSlotsConfig: { type: Object },
+    balancedBotEnabled: { type: Boolean, default: false },
 });
 
 export default mongoose.model("game_configs", Schema);
