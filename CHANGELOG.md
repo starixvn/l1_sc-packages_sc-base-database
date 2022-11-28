@@ -1,3 +1,10 @@
+# [1.11.0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.10.1...v1.11.0) (2022-11-28)
+
+
+### Features
+
+* add slotRNGConfig ([3817d75](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/3817d757bac58cb15b37dee7ecd574880d40821f))
+
 ## [1.10.1](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.10.0...v1.10.1) (2022-07-12)
 
 
