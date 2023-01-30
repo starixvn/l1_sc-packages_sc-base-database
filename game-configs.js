@@ -24,6 +24,8 @@ const Schema = new mongoose.Schema({
     randomMode: { type: Number },
     cascadingSlotsConfig: { type: Object },
     slotRNGConfig: { type: Object },
+    gameId: { type: Number },
+    displayName: { type: String },
 });
 
 export default mongoose.model("game_configs", Schema);
