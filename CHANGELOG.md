@@ -1,3 +1,10 @@
+## [1.11.1](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.11.0...v1.11.1) (2023-03-14)
+
+
+### Bug Fixes
+
+* add gameId, displayName to game config model ([dac6713](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/dac6713b3108f627c6f55af3df62b4cd8d02600f))
+
 # [1.11.0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.10.1...v1.11.0) (2022-11-28)
 
 
