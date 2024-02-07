@@ -1,3 +1,10 @@
+## [1.11.2](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.11.1...v1.11.2) (2024-02-07)
+
+
+### Bug Fixes
+
+* update game-configs ([bb12f3e](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/bb12f3e337190deab3d14434fe5c5803977b825d))
+
 ## [1.11.1](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.11.0...v1.11.1) (2023-03-14)
 
 
