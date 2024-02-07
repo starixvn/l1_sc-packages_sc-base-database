@@ -26,6 +26,7 @@ const Schema = new mongoose.Schema({
     slotRNGConfig: { type: Object },
     gameId: { type: Number },
     displayName: { type: String },
+    gameConfigs: { type: Object },
 });
 
 export default mongoose.model("game_configs", Schema);
