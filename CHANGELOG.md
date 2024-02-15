@@ -1,3 +1,10 @@
+## [1.11.3](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.11.2...v1.11.3) (2024-02-15)
+
+
+### Bug Fixes
+
+* crash game config ([7a42d55](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/7a42d55c6189530351bd5f57705dca5eb06527d6))
+
 ## [1.11.2](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.11.1...v1.11.2) (2024-02-07)
 
 
