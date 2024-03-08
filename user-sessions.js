@@ -7,7 +7,7 @@ const Schema = new mongoose.Schema({
     userId: { type: String },
     username: { type: String },
     owSeq: { type: String },
-    memberId: { type: Number },
+    memberId: { type: String },
     ssoTime: { type: Date },
     recheckInTime: { type: Date, required: true },
     ip: { type: String },
@@ -24,7 +24,7 @@ const Schema = new mongoose.Schema({
     system: { type: Number },
 
     operatorId: { type: String },
-    playerId: { type: Number },
+    playerId: { type: String },
     playerName: { type: String },
     operatorToken: { type: String },
 });

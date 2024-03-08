@@ -11,12 +11,12 @@ const Schema = new mongoose.Schema({
         lastLogin: { type: String },
         regDate: { type: Date },
         partnerId: { type: String },
-        memberId: { type: Number },
+        memberId: { type: String },
         memberName: { type: String },
         currency: { type: String },
 
         operatorId: { type: String },
-        playerId: { type: Number },
+        playerId: { type: String },
         playerName: { type: String },
     },
     facebook: {
