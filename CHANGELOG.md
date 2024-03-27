@@ -1,3 +1,10 @@
+# [2.1.0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v2.0.0...v2.1.0) (2024-03-27)
+
+
+### Features
+
+* add currencies, exchange-rates models ([0adebdb](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/0adebdb10e06b10be0c703d4bdce60da9c20afcb))
+
 # [2.0.0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.11.3...v2.0.0) (2024-03-27)
 
 
