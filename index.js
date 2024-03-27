@@ -6,6 +6,7 @@ import CurrencyGroups from "./currency-groups";
 import ExchangeRates from "./exchange-rates";
 import gameConfigs from "./game-configs.js";
 import gameNotifications from "./game_notifications.js";
+import PartnerConfigs from "./partner-config.js";
 import userInfos from "./user-infos.js";
 import userSessions from "./user-sessions.js";
 import users from "./users.js";
@@ -19,6 +20,7 @@ export {
     CurrencyGroupGames,
     CurrencyGroups,
     ExchangeRates,
+    PartnerConfigs,
     gameConfigs,
     gameNotifications,
     init,
