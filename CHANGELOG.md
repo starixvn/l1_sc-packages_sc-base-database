@@ -1,3 +1,10 @@
+# [2.2.0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v2.1.0...v2.2.0) (2024-03-27)
+
+
+### Features
+
+* add PartnerConfigs model ([15643f4](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/15643f4a7d6de03b1b66f3cac3bf76c8853fa2f7))
+
 # [2.1.0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v2.0.0...v2.1.0) (2024-03-27)
 
 
