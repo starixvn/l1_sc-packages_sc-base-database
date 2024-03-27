@@ -1,3 +1,10 @@
+# [2.0.0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.11.3...v2.0.0) (2024-03-27)
+
+
+### Features
+
+* update users & user-session model - convert playerId type from number to string ([114293e](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/114293e97bd7b44ade6d3aaa102a97e264ae61c0))
+
 ## [1.11.3](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v1.11.2...v1.11.3) (2024-02-15)
 
 
