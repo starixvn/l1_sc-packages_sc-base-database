@@ -27,6 +27,8 @@ const Schema = new mongoose.Schema({
     gameId: { type: Number },
     displayName: { type: String },
     crashConfig: { type: Object },
+    applyMultiplier: { type: Boolean },
+    oddsMultipliers: { type: Object },
 });
 
 export default mongoose.model("game_configs", Schema);
