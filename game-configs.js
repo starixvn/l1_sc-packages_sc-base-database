@@ -29,6 +29,7 @@ const Schema = new mongoose.Schema({
     crashConfig: { type: Object },
     applyMultiplier: { type: Boolean },
     oddsMultipliers: { type: Object },
+    maxWinPerRound: { type: Number },
 });
 
 export default mongoose.model("game_configs", Schema);
