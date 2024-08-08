@@ -1,3 +1,11 @@
+## [2.2.1](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v2.2.0...v2.2.1) (2024-08-08)
+
+
+### Bug Fixes
+
+* add maxWinPerRound game-config ([48b998e](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/48b998e70f04275e479f21cbd23e23cb64672b56))
+* add multiplier config ([d768b3b](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/d768b3b1f1e5255f87eeaf7807b77feff7aae5cc))
+
 # [2.2.0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v2.1.0...v2.2.0) (2024-03-27)
 
 
