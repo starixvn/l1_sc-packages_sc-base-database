@@ -12,6 +12,9 @@ const schema = new mongoose.Schema({
     stakeLevels: [Object],
     coinValues: [Number],
     maxWinPerRound: Number,
+    betLevels: { type: [Number] },
+    defaultBetLevel: { type: Number },
+    defaultCoinValue: { type: Number },
 });
 
 export default mongoose.model("currency_group_games", schema);
