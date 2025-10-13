@@ -1,3 +1,18 @@
+# [2.3.0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v2.2.1...v2.3.0) (2025-10-13)
+
+
+### Bug Fixes
+
+* ci ([d4afdca](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/d4afdcada4b19bd7615a02e644f09bf20386402f))
+* revert ci ([20224f4](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/20224f46ba22a165454062aedfc02c4815574c4a))
+* unit test err ([f40c027](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/f40c02791196077aa80e063539cb106a3df0386e))
+
+
+### Features
+
+* currency group game schema - add new properties ([89c31c0](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/89c31c0d2ac388a1d2628fd87d55098e05ca2912))
+* use src structure ([904d8b9](https://git3.nexdev.net/l1/sc-packages/sc-base-database/commit/904d8b9a0555a181a1689f12750c6e54d1ddcd87))
+
 ## [2.2.1](https://git3.nexdev.net/l1/sc-packages/sc-base-database/compare/v2.2.0...v2.2.1) (2024-08-08)
 
 
