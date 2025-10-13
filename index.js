@@ -13,8 +13,6 @@ import users from "./users.js";
 
 const init = async (configs) => {
     await middlewares.database.configureDatabase(mongoose, configs);
-    mongoose.set("bufferCommands", false);
-    mongoose.set("strictQuery", true);
 };
 
 export {
